@@ -26,6 +26,5 @@ public class Esercizio3 {
             }
             System.out.println();
         }
-        scanner.close();
     }
 }
